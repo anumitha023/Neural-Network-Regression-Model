@@ -10,7 +10,7 @@ This code builds and trains a feedforward neural network in PyTorch for a regres
 
 ## Neural Network Model
 
-<img width="805" height="505" alt="Screenshot 2026-02-20 134304" src="https://github.com/user-attachments/assets/351fe340-d683-4aa8-9048-ee65e59ee14e" />
+![Neural network model ex1](https://github.com/user-attachments/assets/0c0d4cb6-301e-45ec-8069-e8a3468f035d)
 
 
 ## DESIGN STEPS
